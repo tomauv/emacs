@@ -1,11 +1,17 @@
+# only init.el and  tomels/
+/*
+!.gitignore
+!init.el
+!README.md
+!LICENSE
+!/tomels
+*#
+*~
 # Compiled
 *.elc
 
 # Packaging
 .cask
-
-# Backup files
-*~
 
 # Undo-tree save-files
 *.~undo-tree
